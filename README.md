@@ -1,7 +1,7 @@
-# IaC-Terraform-Aws-ECS-Fargate-for-Medusa-open-source-headless-commerce-platform-backend
+# IaC-Terraform-Aws-ECS-Fargate-for-Medusa-open-source-headless-commerce-platform-backend project 
 
 
-Design the IaC (Terraform, Aws ECS/Fargate) for Medusa open source headless commerce platform backend (https://docs.medusajs.com/deployments/server/general-guide), CD pipeline using GitHub Actions
+Design the IaC (Terraform, Aws ECS/Fargate) for Medusa open source headless commerce platform backend (https://docs.medusajs.com/deployments/server/general-guide), CD pipeline using GitHub Actions and more .
 
 
 
